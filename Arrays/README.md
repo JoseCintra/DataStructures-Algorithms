@@ -1,0 +1,1 @@
+An array is a collection of homogeneous (same type) data items stored in contiguous memory locations. For example if an array is of type “int”, it can only store integer elements and cannot allow the elements of other types such as double, float, char etc.
