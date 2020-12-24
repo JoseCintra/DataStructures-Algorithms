@@ -1,3 +1,12 @@
 # Arrays
 
-An array is a collection of homogeneous (same type) data items stored in contiguous memory locations. For example if an array is of type “int”, it can only store integer elements and cannot allow the elements of other types such as double, float, char etc.
+An array is a collection of variables (elements) stored in memory and identified individually by a number (index).
+
+In the classic array, all elements must be of the same type and the size of the array is fixed, that is, it cannot be changed during program execution.
+These latter characteristics, however, vary from language to language
+
+For more information on arrays, see the links below:
+
+https://www.freecodecamp.org/news/data-structures-101-arrays-a-visual-introduction-for-beginners-7f013bcc355a/
+https://beginnersbook.com/2018/10/data-structure-array/
+https://en.wikipedia.org/wiki/Array_data_structure
