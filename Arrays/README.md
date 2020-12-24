@@ -8,5 +8,7 @@ These latter characteristics, however, vary from language to language
 For more information on arrays, see the links below:
 
 https://www.freecodecamp.org/news/data-structures-101-arrays-a-visual-introduction-for-beginners-7f013bcc355a/
+
 https://beginnersbook.com/2018/10/data-structure-array/
+
 https://en.wikipedia.org/wiki/Array_data_structure
