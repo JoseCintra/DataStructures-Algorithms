@@ -1,11 +1,13 @@
 # Arrays Basic Operations
 
-Following are the basic operations supported by an array:
+Following are the main basic operations supported by an array:
 
-- Traverse: Print all the array elements.
+1 - Traverse: Print all the array elements.
 
-- Insertion: Adds an element at the given index and reorganize the array.
+2 - Insertion: Adds an element at the given index and reorganize the array. In this operation, the last element of the array will be lost, since the number of elements is fixed
 
-- Deletion: Deletes an element at the given index and reorganize the array..
+3 - Deletion: Deletes an element at the given index and reorganize the array. In this operation, the last element of the array will be empty.
 
-- Update: Updates an element at the given index.
+4 - Update: Updates an element at the given index.
+
+The second and third operations are slow due to the characteristics of this structure.
