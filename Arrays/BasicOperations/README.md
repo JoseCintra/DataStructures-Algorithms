@@ -11,3 +11,13 @@ Following are the main basic operations supported by an array:
 4 - Update: Updates an element at the given index.
 
 The second and third operations are slow due to the characteristics of this structure.
+
+More information:
+
+https://towardsdatascience.com/a-guide-to-arrays-and-operations-data-structures-f0671028ed71
+
+http://www.tutorialsspace.com/Data-Structures/13-Array-Insertion-In-An-Array-Algorithm.aspx
+
+http://www.tutorialsspace.com/Data-Structures/14-Array-Deletion-In-An-Array-Algorithm.aspx
+
+
